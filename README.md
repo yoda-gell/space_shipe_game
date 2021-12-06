@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/yoda-gell/space_shipe_game/blob/master/image.bmp" />
 </p>
+
 ## Installation
 you need to shot on manies <br/>
 ------to move------   <br/>
