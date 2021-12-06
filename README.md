@@ -13,6 +13,7 @@ In this game you have to dodge enemies and shoot them so that they do not touch 
 
 <p align="center">
   <img src="https://github.com/yoda-gell/space_shipe_game/blob/master/image.bmp" />
+  <br/>
   I hope you enjoy the game !! ;)
 </p>
 
