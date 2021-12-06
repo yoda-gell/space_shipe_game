@@ -10,11 +10,11 @@ In this game you have to dodge enemies and shoot them so that they do not touch 
 I hope you enjoy the game !!
 <br/>
 ------to move------   <br/>
-*key 'a' to move left  <br/>
-*key 'd' to move right <br/>
-*key 's' to move down  <br/>
-*key 'w' to move       <br/>
-*to shot enter space   <br/>
+* key 'a' to move left  <br/>
+* key 'd' to move right <br/>
+* key 's' to move down  <br/>
+* key 'w' to move       <br/>
+* to shot enter space   <br/>
 
 ## Installation
 Just clone the code: <br/>
