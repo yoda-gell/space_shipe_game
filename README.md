@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/yoda-gell/space_shipe_game/blob/master/image.bmp" />
 </p>
-## how to play ;)
+## Installation
 you need to shot on manies <br/>
 ------to move------   <br/>
 key 'a' to move left  <br/>
